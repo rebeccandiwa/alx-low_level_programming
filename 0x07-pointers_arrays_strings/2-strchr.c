@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
-/** 
+/**
  * _strchr - Entry point of a character in a string
  * @s: input
  * @c: input
